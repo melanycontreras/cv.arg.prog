@@ -28,10 +28,26 @@ h2 {
 }
 
 .foto1 {
-    width: 300px;
-    margin: auto;
-    display: block;
-    margin-bottom: 50px;
+    width: 400px;
+    display:flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
     
+    
+}
+
+h3 {
+    font-style:italic;
+    color: black;
+    text-decoration: underline;
+
+}
+
+.div {
+    font-size: larger;
+    font-style:unset;
+    color:bisque
+
+
 }
 
